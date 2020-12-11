@@ -1,7 +1,7 @@
 # lita-doubler
 
-[![Build Status](https://travis-ci.org/noorkhan-92/lita-doubler.png?branch=master)](https://travis-ci.org/noorkhan-92/lita-doubler)
-[![Coverage Status](https://coveralls.io/repos/noorkhan-92/lita-doubler/badge.png)](https://coveralls.io/r/noorkhan-92/lita-doubler)
+[![Build Status](https://travis-ci.org/noorkhan_92/lita-doubler.png?branch=master)](https://travis-ci.org/noorkhan_92/lita-doubler)
+[![Coverage Status](https://coveralls.io/repos/noorkhan_92/lita-doubler/badge.png)](https://coveralls.io/r/noorkhan_92/lita-doubler)
 
 TODO: Add a description of the plugin.
 
